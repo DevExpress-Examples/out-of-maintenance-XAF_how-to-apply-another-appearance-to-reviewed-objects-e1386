@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BaseClass.cs](./CS/DXExample.Module/BaseClass.cs) (VB: [BaseClass.vb](./VB/DXExample.Module/BaseClass.vb))
+* [MarkAsReadViewController.cs](./CS/DXExample.Module/MarkAsReadViewController.cs) (VB: [MarkAsReadViewController.vb](./VB/DXExample.Module/MarkAsReadViewController.vb))
+<!-- default file list end -->
 # How to apply another appearance to reviewed objects
 
 
